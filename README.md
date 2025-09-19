@@ -22,8 +22,8 @@ Step 5.End
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: RAGALA SAI VIVEK
-RegisterNumber:  212223230163
+Developed by: G.ganga devi
+RegisterNumber:  212224240042
 */
 ```
 ```
